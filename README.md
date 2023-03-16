@@ -2,7 +2,7 @@
 Aquí se pondrán los links de las practicas de flutterflow
 
 # Actividad 2 Drawer en flutterflow
-link --> xxxxxxxxxxxxxxx
+link -->
 
 # Actividad 3 Drawer en flutterflow
 link --> xxxxxxxxxxxxxxx
